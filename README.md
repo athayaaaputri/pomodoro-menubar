@@ -50,7 +50,7 @@ Focus → Break → Focus → Long break → (repeat)
 ## Build and install
 
 ```bash
-git clone https://github.com/<your-username>/pomodoro-menubar.git
+git clone https://github.com/athayaaaputri/pomodoro-menubar.git
 cd pomodoro-menubar
 ./build.sh
 ```
